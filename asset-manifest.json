@@ -1,14 +1,11 @@
 {
   "files": {
     "main.css": "./static/css/main.a7037566.css",
-    "main.js": "./static/js/main.9cfab000.js",
+    "main.js": "./static/js/main.b6cec545.js",
     "static/js/3779.0ec8837d.chunk.js": "./static/js/3779.0ec8837d.chunk.js",
-    "static/js/9213.144fec9f.chunk.js": "./static/js/9213.144fec9f.chunk.js",
-    "static/js/6563.b381829d.chunk.js": "./static/js/6563.b381829d.chunk.js",
-    "static/js/2397.183142d5.chunk.js": "./static/js/2397.183142d5.chunk.js",
-    "static/js/1067.b68ca25b.chunk.js": "./static/js/1067.b68ca25b.chunk.js",
-    "static/js/7135.694e6699.chunk.js": "./static/js/7135.694e6699.chunk.js",
-    "static/js/1199.ffdf5d56.chunk.js": "./static/js/1199.ffdf5d56.chunk.js",
+    "static/js/1067.ffd99483.chunk.js": "./static/js/1067.ffd99483.chunk.js",
+    "static/js/7135.ede843e0.chunk.js": "./static/js/7135.ede843e0.chunk.js",
+    "static/js/1199.d80fe8ca.chunk.js": "./static/js/1199.d80fe8ca.chunk.js",
     "static/js/1017.3e8fe539.chunk.js": "./static/js/1017.3e8fe539.chunk.js",
     "static/js/8018.b85b3a47.chunk.js": "./static/js/8018.b85b3a47.chunk.js",
     "static/js/7474.a40d9697.chunk.js": "./static/js/7474.a40d9697.chunk.js",
@@ -36,7 +33,7 @@
     "static/js/8141.44692a14.chunk.js": "./static/js/8141.44692a14.chunk.js",
     "static/js/4452.239ffa7a.chunk.js": "./static/js/4452.239ffa7a.chunk.js",
     "static/js/5086.830ad956.chunk.js": "./static/js/5086.830ad956.chunk.js",
-    "static/js/5250.0a6c2af6.chunk.js": "./static/js/5250.0a6c2af6.chunk.js",
+    "static/js/5250.09c998d7.chunk.js": "./static/js/5250.09c998d7.chunk.js",
     "static/js/6021.28ca42a3.chunk.js": "./static/js/6021.28ca42a3.chunk.js",
     "static/js/9935.f9146f0e.chunk.js": "./static/js/9935.f9146f0e.chunk.js",
     "static/js/5426.f1ba1c19.chunk.js": "./static/js/5426.f1ba1c19.chunk.js",
@@ -63,12 +60,11 @@
     "static/js/8242.26775f58.chunk.js": "./static/js/8242.26775f58.chunk.js",
     "static/js/3182.7c59ab2e.chunk.js": "./static/js/3182.7c59ab2e.chunk.js",
     "static/js/3391.76e4787c.chunk.js": "./static/js/3391.76e4787c.chunk.js",
-    "static/js/6329.10fdc72e.chunk.js": "./static/js/6329.10fdc72e.chunk.js",
-    "static/js/1090.2161c7b7.chunk.js": "./static/js/1090.2161c7b7.chunk.js",
-    "static/js/6441.1292aae4.chunk.js": "./static/js/6441.1292aae4.chunk.js",
-    "static/js/6544.7e581b18.chunk.js": "./static/js/6544.7e581b18.chunk.js",
-    "static/js/830.97adf424.chunk.js": "./static/js/830.97adf424.chunk.js",
-    "static/js/9593.f01b3366.chunk.js": "./static/js/9593.f01b3366.chunk.js",
+    "static/js/1311.a2edd0f6.chunk.js": "./static/js/1311.a2edd0f6.chunk.js",
+    "static/js/1090.e0a4be96.chunk.js": "./static/js/1090.e0a4be96.chunk.js",
+    "static/js/6441.93a38194.chunk.js": "./static/js/6441.93a38194.chunk.js",
+    "static/js/6544.63d63637.chunk.js": "./static/js/6544.63d63637.chunk.js",
+    "static/js/830.e34cd416.chunk.js": "./static/js/830.e34cd416.chunk.js",
     "static/media/ebrima.ttf": "./static/media/ebrima.d6bca5f6f5a610fdb705.ttf",
     "static/media/metamask-unscreen.gif": "./static/media/metamask-unscreen.96615ab47f73773a6573.gif",
     "static/media/polyroll-logo.gif": "./static/media/polyroll-logo.ed0c79e8cd7a33fde794.gif",
@@ -127,6 +123,6 @@
   },
   "entrypoints": [
     "static/css/main.a7037566.css",
-    "static/js/main.9cfab000.js"
+    "static/js/main.b6cec545.js"
   ]
 }
