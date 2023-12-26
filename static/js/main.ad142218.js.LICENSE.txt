@@ -1,8 +1,8 @@
 /*
-      object-assign
-      (c) Sindre Sorhus
-      @license MIT
-      */
+    object-assign
+    (c) Sindre Sorhus
+    @license MIT
+    */
 
 /*!
      * Pixel Art (@dicebear/pixel-art)
@@ -85,8 +85,6 @@ LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
 OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
-
-/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
 
 /**
      * @license
@@ -174,13 +172,13 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 /** @license React v16.3.2
-       * react.production.min.js
-       *
-       * Copyright (c) 2013-present, Facebook, Inc.
-       *
-       * This source code is licensed under the MIT license found in the
-       * LICENSE file in the root directory of this source tree.
-       */
+     * react.production.min.js
+     *
+     * Copyright (c) 2013-present, Facebook, Inc.
+     *
+     * This source code is licensed under the MIT license found in the
+     * LICENSE file in the root directory of this source tree.
+     */
 
 /** @license React v17.0.2
  * react-is.production.min.js
