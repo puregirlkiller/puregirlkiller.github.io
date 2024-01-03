@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.08b845e7.css",
-    "main.js": "./static/js/main.2d01f904.js",
+    "main.css": "./static/css/main.36bbc326.css",
+    "main.js": "./static/js/main.5d68cecf.js",
     "static/js/6698.5942af29.chunk.js": "./static/js/6698.5942af29.chunk.js",
     "static/js/7067.546c5dd9.chunk.js": "./static/js/7067.546c5dd9.chunk.js",
     "static/js/6907.dae1fe11.chunk.js": "./static/js/6907.dae1fe11.chunk.js",
@@ -71,7 +71,7 @@
     "static/js/7068.f2f92feb.chunk.js": "./static/js/7068.f2f92feb.chunk.js",
     "static/js/1632.7ca6879c.chunk.js": "./static/js/1632.7ca6879c.chunk.js",
     "static/js/3028.bc1daaf9.chunk.js": "./static/js/3028.bc1daaf9.chunk.js",
-    "static/js/296.0b98638a.chunk.js": "./static/js/296.0b98638a.chunk.js",
+    "static/js/296.75b55d17.chunk.js": "./static/js/296.75b55d17.chunk.js",
     "static/media/ebrima.ttf": "./static/media/ebrima.d6bca5f6f5a610fdb705.ttf",
     "static/media/metamask-unscreen.gif": "./static/media/metamask-unscreen.96615ab47f73773a6573.gif",
     "static/media/polyroll-logo.gif": "./static/media/polyroll-logo.ed0c79e8cd7a33fde794.gif",
@@ -129,7 +129,7 @@
     "static/media/ru_RU.svg": "./static/media/ru_RU.84f9a94cc0cad19412479df6e409d321.svg"
   },
   "entrypoints": [
-    "static/css/main.08b845e7.css",
-    "static/js/main.2d01f904.js"
+    "static/css/main.36bbc326.css",
+    "static/js/main.5d68cecf.js"
   ]
 }
