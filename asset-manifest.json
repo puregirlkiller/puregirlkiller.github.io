@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.36bbc326.css",
-    "main.js": "./static/js/main.ce66b561.js",
+    "main.js": "./static/js/main.a027449b.js",
     "static/js/6698.5942af29.chunk.js": "./static/js/6698.5942af29.chunk.js",
     "static/js/7067.546c5dd9.chunk.js": "./static/js/7067.546c5dd9.chunk.js",
     "static/js/6907.dae1fe11.chunk.js": "./static/js/6907.dae1fe11.chunk.js",
@@ -103,6 +103,7 @@
     "static/media/deselect.mp3": "./static/media/deselect.45d8083ec34c4cb5fc94.mp3",
     "static/media/twoDiceSVG.svg": "./static/media/twoDiceSVG.09d02fe24c61c714c73c0f359fe0f85b.svg",
     "static/media/polyrollSVG.svg": "./static/media/polyrollSVG.857886c5f368ad97e8ee0fc6efe2796f.svg",
+    "static/media/dice_tick.mp3": "./static/media/dice_tick.eb10240267286d2016af.mp3",
     "static/media/IDO-icon.svg": "./static/media/IDO-icon.627d5e02737aff842ae8f7dbe8a9ad77.svg",
     "static/media/sun.svg": "./static/media/sun.64771d808da6ad28513fc707bf92ca48.svg",
     "static/media/medium.svg": "./static/media/medium.a28cf5c1e86d2f2f75bec06626f65d3c.svg",
@@ -130,6 +131,6 @@
   },
   "entrypoints": [
     "static/css/main.36bbc326.css",
-    "static/js/main.ce66b561.js"
+    "static/js/main.a027449b.js"
   ]
 }
